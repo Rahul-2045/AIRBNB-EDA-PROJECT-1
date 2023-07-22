@@ -1,5 +1,5 @@
 # AIRBNB
-ANALYZING THE DATA
+![image](https://github.com/Rahul-2045/AIRBNB-EDA-PROJECT-1/assets/116415973/c9f63e5f-aaca-4532-b4b8-eb56da90804a)
 
 # Business Case:
 
@@ -22,3 +22,11 @@ The dataset consists of around 49,000 observations and 16 columns, encompassing 
 6. **Key Findings:** Extract significant insights that can shape business strategies, improve services, or drive decision-making.
 
 Through comprehensive EDA, Airbnb can unlock valuable insights from its dataset, leading to better understanding of customer needs, host performance, and market trends. These findings are instrumental in enhancing user experience, making data-driven decisions, and maintaining Airbnb's position as a leading global platform for travelers and hosts.
+
+For complete project video explaination and to downoad the dataset: https://drive.google.com/file/d/1vlD3LKzlG-WssM6doewpx9Qg88xSq7Ml/view?usp=sharing
+
+Feel free to explore the repository to gain further insights into the code implementation, methodology, and findings.
+
+Connect with me on www.linkedin.com/in/rahul-verma-
+
+Happy Learning!
