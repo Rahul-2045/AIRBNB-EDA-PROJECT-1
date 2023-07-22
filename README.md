@@ -1,5 +1,6 @@
 # AIRBNB
-![image](https://github.com/Rahul-2045/AIRBNB-EDA-PROJECT-1/assets/116415973/c9f63e5f-aaca-4532-b4b8-eb56da90804a)
+![Uploading image.png…]()
+
 
 # Business Case:
 
